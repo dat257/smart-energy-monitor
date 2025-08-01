@@ -36,6 +36,9 @@ Below is the system schematic that illustrates all hardware connections:
   - Voltage (V), Current (A), Power (W), and Energy (kWh)
   - Independently monitor two electrical devices simultaneously
 
+- **Electricity Cost Calculation:**
+  - The system automatically calculates and estimates daily and monthly electricity costs based on energy consumption.
+
 - **Smart Alerts:**
   - Detects over-voltage and over-power conditions
   - Activates buzzer and LED alerts
